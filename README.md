@@ -1,6 +1,11 @@
 ### Hi there 👋
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219)](https://github.com/anuraghazra/github-readme-stats)
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoly1219&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- I'm currently working on...
+  - `go-leetcode`, a Leetcode clone made with Go backend and SvelteKit frontend.
+- I'm currently learning...
+  - Go, Svelte, SvelteKit, C++ for university
 <!--
 **jpoly1219/jpoly1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
