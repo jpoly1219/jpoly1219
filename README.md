@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I'm currently working on `go-leetcode`, a Leetcode clone made with Go backend and SvelteKit frontend.
+- 🔭 I'm currently working on `gambas`, a data analysis tool that aims to provide an alternative for `pandas` for Go developers.
 
 ## Go-to Stack At The Moment (And Tools!)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
