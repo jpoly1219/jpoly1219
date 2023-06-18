@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 shields:
+https://home.aveek.io/GitHub-Profile-Badges/
 https://github.com/Envoy-VC/awesome-badges#-web-browsers
 https://ileriayo.github.io/markdown-badges/
 https://github.com/badges/shields
