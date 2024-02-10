@@ -5,6 +5,7 @@
 - 👨‍💻 I'm currently working as a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on an LLM-based learning tools.
 
 ## My Favorite Tools To Use
+![Hazel](https://img.shields.io/badge/Hazel-cbce86.svg?style=for-the-badge&logo=jQcjB601.svg)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
 ![Reason](https://img.shields.io/badge/Reason-DD4B39.svg?style=for-the-badge&logo=Reason&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
