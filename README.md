@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I'm currently working as a software engineer intern at the University of Michigan School of Information.
+- 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language.
+- 👨‍💻 I'm currently working as a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on an LLM-based learning tools.
 
 ## My Favorite Tools To Use
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
@@ -17,6 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 ## Languages
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
@@ -53,6 +55,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white)
 
 <!--
 **jpoly1219/jpoly1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
