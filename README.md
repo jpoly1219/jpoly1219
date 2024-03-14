@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language.
-- 👨‍💻 I'm currently working as a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on an LLM-based learning tools.
+- 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language and the Hazel Assistant.
+- 👨‍💻 I'm a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on an LLM-based learning tools.
 
 ## My Favorite Tools To Use
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
