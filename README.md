@@ -5,7 +5,7 @@
 - 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language, Hazel LLM Assistant, and an editor-less language server client.
 - 👨‍💻 I'm a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
 - 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
-- 🫡 I was a squadron leader for the Computer Emergency Response Team as a sergeant in the Republic of Korea Army, managing servers and doing field infrastructure missions.
+- 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
 - 〽️ I'm a junior majoring in Computer Science at the University of Michigan College of Enginnering.
 
 ## Topics of Interest
