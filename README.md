@@ -14,6 +14,8 @@
 - Programming languages
 - Backend web development
 - LLMs
+- Functional Programming
+- Purity
 - Setups (ergonomics, hardware, etc.)
 
 ## These are a few of my favorite things 🎵
