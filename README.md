@@ -1,21 +1,28 @@
 ### Hi there 👋
 <!-- [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+My research interests lie on cultivating better developer experience using concepts from Programming Languages Theory, AI, Software Engineering, and HCI.
+
+Some of these efforts include:
+- Statically contextualizing LLMs with typed holes and semantic information.
+- Decoupling the LSP client from the editor-space to efficiently feed relevant context to the LLM.
+- Implementing new language server protocols and editor features to facilitate LLM-driven development.
+- Writing portable, complex evaluation suites using custom types over primitive types.
+
 ## Career
-- 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language, Hazel LLM Assistant, and an editor-less language server client.
+- 👨‍💻 I'm a student researcher in the Future of Programming Lab at the University of Michigan, researching on the Hazel LLM Assistant and static contextualization of LLMs.
 - 👨‍💻 I'm a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
 - 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
 - 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
 - 〽️ I'm a junior majoring in Computer Science at the University of Michigan College of Enginnering.
 
 ## Topics of Interest
-- Language servers
 - Programming tooling and environments
 - Programming languages
-- Backend web development
+- Language servers
 - LLMs
 - Functional Programming
-- Purity
+- Backend web development
 - Setups (ergonomics, hardware, etc.)
 
 ## These are a few of my favorite things 🎵
