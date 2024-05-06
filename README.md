@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Career
 - 👨‍💻 I'm an active member of the Future of Programming Lab at the University of Michigan, working on the Hazel programming language, Hazel LLM Assistant, and an editor-less language server client.
