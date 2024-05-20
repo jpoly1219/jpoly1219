@@ -28,6 +28,7 @@ Some of these efforts include:
 ## These are a few of my favorite things 🎵
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
 ![Reason](https://img.shields.io/badge/Reason-DD4B39.svg?style=for-the-badge&logo=Reason&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20.svg?style=for-the-badge&logo=Racket&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
@@ -37,6 +38,7 @@ Some of these efforts include:
 ## Languages
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
 ![Reason](https://img.shields.io/badge/Reason-DD4B39.svg?style=for-the-badge&logo=Reason&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20.svg?style=for-the-badge&logo=Racket&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
