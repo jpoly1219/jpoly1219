@@ -10,7 +10,7 @@ Some of these efforts include:
 - Writing portable, complex evaluation suites using custom types over primitive types.
 
 ## Career
-- 👨‍💻 I'm a student researcher in the Future of Programming Lab at the University of Michigan, researching on the Hazel LLM Assistant and static contextualization of LLMs.
+- 👨‍💻 I'm a student researcher in the Future of Programming Lab at the University of Michigan, researching the ChatLSP (augmented langauge server protocol for LLM-friendly methods), static contextualization of LLMs, and developer tooling ecosystem.
 - 👨‍💻 I'm a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
 - 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
 - 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
