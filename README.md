@@ -4,13 +4,15 @@
 My research interests lie on cultivating better developer experience using concepts from Programming Languages Theory, AI, Software Engineering, and HCI.
 
 Some of these efforts include:
-- Statically contextualizing LLMs with typed holes and semantic information.
+- Statically contextualizing LLMs with typed holes and semantic information, improving code completion accuracy and token efficiency.
 - Decoupling the LSP client from the editor-space to efficiently feed relevant context to the LLM.
-- Implementing new language server protocols and editor features to facilitate LLM-driven development.
+- Implementing new language server protocols and editor features to facilitate LLM-driven development, even for low-resource languages.
 - Writing portable, complex evaluation suites using custom types over primitive types.
+- Formally verifying critical operations such as SQL query rewrites.
 
 ## Career
-- 👨‍💻 I'm a student researcher in the Future of Programming Lab at the University of Michigan, researching the ChatLSP (augmented langauge server protocol for LLM-friendly methods), static contextualization of LLMs, and developer tooling ecosystem.
+- 👨‍💻 I'm a student researcher in the Future of Programming Lab at the University of Michigan, creating ChatLSP (augmented langauge server protocol for LLM-friendly methods), and researching static contextualization of LLMs and developer tooling ecosystem.
+- 👨‍💻 I'm a studnet researcher in the MIPL Lab at the University of Michigan, formally verifying SQL rewrite rules in Lean.
 - 👨‍💻 I'm a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
 - 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
 - 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
