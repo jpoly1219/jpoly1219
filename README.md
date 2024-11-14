@@ -9,9 +9,10 @@ Some of these efforts include:
 - Implementing new language server protocols and editor features to facilitate LLM-driven development, even for low-resource languages.
 - Writing portable, complex evaluation suites using custom types over primitive types.
 - Formally verifying critical operations such as SQL query rewrites.
+- Creating AI tools for developers.
 
 ## Career
-- 👨‍💻 I'm a student research assistant in the Future of Programming Lab at the University of Michigan, creating ChatLSP (augmented langauge server protocol for LLM-friendly methods), and researching static contextualization of LLMs and developer tooling ecosystem.
+- 👨‍💻 I'm a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating ChatLSP (augmented langauge server protocol for LLM-friendly methods), and researching static contextualization of LLMs and developer tooling ecosystem.
 - 👨‍💻 I'm a student research assistant in the MIPL Group at the University of Michigan, formally verifying SQL rewrite rules in Lean.
 - 👨‍💻 I worked as a software engineer intern in the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
 - 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
