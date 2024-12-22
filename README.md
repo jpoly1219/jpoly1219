@@ -22,12 +22,13 @@ Some of these efforts include:
 - 〽️ I'm a senior majoring in Computer Science at the University of Michigan College of Engineering.
 
 ## Topics of Interest
-- Programming tooling and environments
+- Developer tools and environments
 - Programming languages
 - Language servers
-- LLMs
+- AI, ML, and LLMs
 - Functional Programming
 - Backend web development
+- Educational technology, and the theory of how we learn
 - Setups (ergonomics, hardware, etc.)
 
 ## These are a few of my favorite things 🎵
