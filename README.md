@@ -1,23 +1,25 @@
 ### Hi there 👋
 <!-- [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-My research interests lie on cultivating better developer experience using concepts from Programming Languages Theory, AI, Software Engineering, and HCI.
+My research interests lie in cultivating better developer experience using concepts from Programming Languages Theory, AI, Software Engineering, and HCI.
+My focus as a software engineer is full-stack development with an emphasis on backend and reliable AI-based services.
 
 Some of these efforts include:
 - Statically contextualizing LLMs with typed holes and semantic information, improving code completion accuracy and token efficiency.
-- Decoupling the LSP client from the editor-space to efficiently feed relevant context to the LLM.
+- Decoupling the LSP client from the editor to efficiently feed relevant context to the LLM.
 - Implementing new language server protocols and editor features to facilitate LLM-driven development, even for low-resource languages.
 - Writing portable, complex evaluation suites using custom types over primitive types.
 - Formally verifying critical operations such as SQL query rewrites.
-- Creating AI tools for developers.
+- Creating AI-based tools for developers.
 
 ## Career
-- 👨‍💻 I'm a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating ChatLSP (augmented langauge server protocol for LLM-friendly methods), and researching static contextualization of LLMs and developer tooling ecosystem.
-- 👨‍💻 I'm a student research assistant in the MIPL Group at the University of Michigan, formally verifying SQL rewrite rules in Lean.
-- 👨‍💻 I worked as a full-stack software engineer at the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based learning tools.
-- 📰 I'm a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
+- 🚀 I'm a founding engineer at Ace AI, creating the cloud-based infrastructure for the organization and working on core AI services such as PII cleaning, synthetic data generation, and codebase analysis.
+- 👨‍💻 I'm a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating ChatLSP (the augmented language server protocol for LLM-friendly methods) and researching static contextualization of LLMs and the further developer tooling ecosystem.
+- 👨‍💻 I'm a student research assistant in the Michigan Intelligent Programming Lab at the University of Michigan, formally verifying SQL rewrite rules using the Lean theorem prover.
+- 👨‍💻 I worked as a full-stack software engineer at the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based educational technology.
+- 📰 I worked as a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
 - 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
-- 〽️ I'm a senior majoring in Computer Science at the University of Michigan College of Enginnering.
+- 〽️ I'm a senior majoring in Computer Science at the University of Michigan College of Engineering.
 
 ## Topics of Interest
 - Programming tooling and environments
