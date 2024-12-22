@@ -17,7 +17,7 @@ Some of these efforts include:
 - 👨‍💻 I'm a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating ChatLSP (the augmented language server protocol for LLM-friendly methods) and researching static contextualization of LLMs and the further developer tooling ecosystem. Read the paper [here](https://dl.acm.org/doi/10.1145/3689728).
 - 👨‍💻 I'm a student research assistant in the Michigan Intelligent Programming Lab at the University of Michigan, formally verifying SQL rewrite rules using the Lean theorem prover.
 - 👨‍💻 I worked as a full-stack software engineer at the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based educational technology.
-- 📰 I worked as a Managing Online Editor at The Michigan Daily. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
+- 📰 I worked as a Managing Online Editor at The Michigan Daily, leading a team of 20 engineers. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
 - 🫡 I was a squad leader of the Computer Emergency Response Team as a Sergeant in the Republic of Korea Army, managing servers and carrying out field infrastructure missions.
 - 〽️ I'm a senior majoring in Computer Science at the University of Michigan College of Engineering.
 
