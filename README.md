@@ -2,6 +2,7 @@
 <!-- [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpoly1219&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 My research interests lie in cultivating better developer experience using concepts from Programming Languages Theory, AI, Software Engineering, and HCI.
+
 My focus as a software engineer is full-stack development with an emphasis on backend and reliable AI-based services.
 
 Some of these efforts include:
