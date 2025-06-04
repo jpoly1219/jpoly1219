@@ -14,9 +14,9 @@ Some of these efforts include:
 - Creating AI-based tools for developers.
 
 ## Career
-- 🚀 I'm an incoming software engineer intern at Continue, amplifying developers with curated AI tools amidst the fears of AI taking over developers.
+- 🚀 I'm currently a software engineer intern at Continue, amplifying developers with curated AI tools amidst the fears of AI taking over developers.
 - 🚀 I worked as founding engineer at Ace AI, creating the cloud-based infrastructure for the organization and working on core AI services such as PII cleaning, synthetic data generation, and codebase analysis.
-- 👨‍💻 I'm a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating [ChatLSP](https://fplab.github.io/chatlsp/) (the augmented language server protocol for LLM-friendly methods) and researching static contextualization of LLMs and the further developer tooling ecosystem. Read the paper [here](https://dl.acm.org/doi/10.1145/3689728).
+- 👨‍💻 I worked as a research software engineer and a student research assistant in the Future of Programming Lab at the University of Michigan, creating [ChatLSP](https://fplab.github.io/chatlsp/) (the augmented language server protocol for LLM-friendly methods) and researching static contextualization of LLMs and the further developer tooling ecosystem. Read the paper [here](https://dl.acm.org/doi/10.1145/3689728).
 - 👨‍💻 I worked as a student research assistant in the Michigan Intelligent Programming Lab at the University of Michigan, formally verifying SQL rewrite rules using the Lean theorem prover.
 - 👨‍💻 I worked as a full-stack software engineer at the Educational Technology Collective Lab at the University of Michigan School of Information, working on LLM-based educational technology.
 - 📰 I worked as a Managing Online Editor at The Michigan Daily, leading a team of 20 engineers. Previously, I was a software engineer working on internal tools, backend, and infrastructure.
