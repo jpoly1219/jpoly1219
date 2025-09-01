@@ -42,7 +42,6 @@ Some of these efforts include:
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ## Languages
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
@@ -90,9 +89,6 @@ Some of these efforts include:
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
-
-### AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 <!--
 **jpoly1219/jpoly1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
